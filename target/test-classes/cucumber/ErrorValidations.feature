@@ -13,4 +13,4 @@ Feature: Error validation
 
     Examples:
       | name              | password |
-      | example@gmail.con | Pass@12 | 
+      | example@gmail.com | Pass@12 | 
